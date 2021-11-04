@@ -1,1 +1,1 @@
-Bài 2 em gửi lên sau ạ
+Bài 2 em sẽ cập nhật sau ạ
