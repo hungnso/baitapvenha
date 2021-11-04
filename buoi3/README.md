@@ -1,1 +1,1 @@
-## Bai 2 em se hoan thanh sau a
+Bài 2 em sẽ cập nhật sau ạ

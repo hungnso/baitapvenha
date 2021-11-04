@@ -1,1 +1,25 @@
-{"post1":[{"id":"1","usename":"hungnso","content":"Vui quá đi"},{"id":"6d6a8a50-3d8b-11ec-9da0-f14bc7fec61d","username":"hien2222","content":"test"},{"id":"54f20400-3d8e-11ec-aeff-c5b23ea8aaa9","username":"test2","content":"test2"}],"post2":[{"id":"1","usename":"hungtin1","content":"Cảm ơn a "},{"id":"2","usename":"hungnso2","content":"Nội dung chia sẻ hay quá"},{"id":"98261710-3d94-11ec-8de6-39db4ac7e2a0","username":"test-post2","content":"test-comment-post2"}],"dataListCommnet":[{"id":"10","username":"kieee2","content":"okwwww"}]}
+{
+  "post1": [
+    { "id": "1", "usename": "hungnso", "content": "Vui quá đi" },
+    {
+      "id": "6d6a8a50-3d8b-11ec-9da0-f14bc7fec61d",
+      "username": "hien2222",
+      "content": "test"
+    },
+    {
+      "id": "54f20400-3d8e-11ec-aeff-c5b23ea8aaa9",
+      "username": "test2",
+      "content": "test2"
+    }
+  ],
+  "post2": [
+    { "id": "1", "usename": "hungtin1", "content": "Cảm ơn a " },
+    { "id": "2", "usename": "hungnso2", "content": "Nội dung chia sẻ hay quá" },
+    {
+      "id": "98261710-3d94-11ec-8de6-39db4ac7e2a0",
+      "username": "test-post2",
+      "content": "test-comment-post2"
+    }
+  ],
+  "post3": [{ "id": "10", "username": "kieee2", "content": "okwwww" }]
+}
